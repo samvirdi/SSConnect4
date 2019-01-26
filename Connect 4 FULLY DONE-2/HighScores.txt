@@ -1,0 +1,13 @@
+6
+Jasmine
+90
+Shahzada
+20
+Gurmehar
+30
+Samandeep
+20
+Shawn
+50
+Terrell
+40
